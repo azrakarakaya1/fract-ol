@@ -1,4 +1,4 @@
-# fract-ol
+# Fract-ol
 
 A 42 School project that renders beautiful fractals using the MiniLibX graphics library.
 
